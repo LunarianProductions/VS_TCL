@@ -16,4 +16,5 @@ senpai
 senpai-angry
 spirit
 lunarie
+lunarie-thecursed
 lunarie-galactic
