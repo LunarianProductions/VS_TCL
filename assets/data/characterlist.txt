@@ -16,6 +16,5 @@ senpai
 senpai-angry
 spirit
 lunarie
-lunarie-tank
 lunarie-thecursed
 galactic-lunarie
