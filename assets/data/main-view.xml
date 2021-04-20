@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+-<vbox style="padding: 5px;">
+
+<button style="font-size: 24px;" onclick="this.text='Thanks!'" text="Click Me!"/>
+
+</vbox>
