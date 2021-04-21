@@ -1,0 +1,7 @@
+Note that some of the song chart JSON Files for this mod differ slightly from the ones in the original, especially the demonic mode charts.
+So if you attempt to use of these charts in another mod or the original game, IT WILL CRASH!!!!
+
+Check for the JSON Files that have song-name1.json instead of song-name.json (anything with a 1 after the songs name),
+since these have no data for crossfades and work well like a normal JSON file for song charts. I partially also did this for preventing
+cheating on certain songs using bots, but I do understand if you wish to use a bot for any of these charts, I prefer you use them
+without the crossfades!!
