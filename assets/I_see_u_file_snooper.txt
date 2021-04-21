@@ -1,4 +1,4 @@
-Note that some of the song chart JSON Files for this mod differ slightly from the ones in the original, especially the demonic mode charts.
+Note that some of the song chart JSON Files for this mod differ slightly from the ones in the original, especially the lunaric mode charts.
 So if you attempt to use of these charts in another mod or the original game, IT WILL CRASH!!!!
 
 Check for the JSON Files that have song-name1.json instead of song-name.json (anything with a 1 after the songs name),
