@@ -1,0 +1,104 @@
+
+    "song": {
+        "song": "Winter-Horrorland",
+        "notes": [
+            {
+                "lengthInSteps": 16,
+                "bpm": 95,
+                "changeBPM": false,
+                "mustHitSection": true,
+                "sectionNotes": [],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
+                "lengthInSteps": 16,
+                "bpm": 95,
+                "changeBPM": false,
+                "mustHitSection": true,
+                "sectionNotes": [],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
+                "lengthInSteps": 16,
+                "bpm": 159,
+                "changeBPM": false,
+                "mustHitSection": true,
+                "sectionNotes": [],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
+                "lengthInSteps": 16,
+                "bpm": 159,
+                "changeBPM": false,
+                "mustHitSection": true,
+                "sectionNotes": [],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
+                "lengthInSteps": 16,
+                "bpm": 159,
+                "changeBPM": false,
+                "mustHitSection": true,
+                "sectionNotes": [],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
+                "lengthInSteps": 16,
+                "bpm": 159,
+                "changeBPM": false,
+                "mustHitSection": true,
+                "sectionNotes": [],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
+                "lengthInSteps": 16,
+                "bpm": 159,
+                "changeBPM": false,
+                "mustHitSection": false,
+                "sectionNotes": [
+                    [
+                        9433.962264150943,
+                        0,
+                        283.0188679245283
+                    ],
+                    [
+                        9811.32075471698,
+                        2,
+                        283.0188679245283
+                    ],
+                    [
+                        10188.67924528302,
+                        3,
+                        283.0188679245283
+                    ]
+                ],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
+                "lengthInSteps": 16,
+                "bpm": 159,
+                "changeBPM": false,
+                "mustHitSection": false,
+                "sectionNotes": [
+                    [
+                        10566.037735849059,
+                        0,
+                        566.0377358490566
+                    ],
+                    [
+                        11320.754716981133,
+                        2,
+                        660.377358490566
+                    ]
+                ],
+                "typeOfSection": 0,
+                "altAnim": false
+            },
+            {
