@@ -16,6 +16,7 @@ senpai
 senpai-angry
 spirit
 tankman
+bf-astronaut
 lunarie
 lunarie-thecursed
 galactic-lunarie
