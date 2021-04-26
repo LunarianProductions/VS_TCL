@@ -18,6 +18,7 @@ senpai
 senpai-angry
 spirit
 tankman
+steve
 bf-astronaut
 gf-astronaut
 lunarie
