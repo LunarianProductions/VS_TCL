@@ -35,8 +35,8 @@ Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO.
 
 If you do make any sort of video, it would be a bro move if you linked the game and spread the word
 
-Play On Newgrounds - https://www.newgrounds.com/portal/view/770371
-Support on Itch.io - https://ninja-muffin24.itch.io/funkin
+Play the original On Newgrounds - https://www.newgrounds.com/portal/view/770371
+Support the original game on Itch.io - https://ninja-muffin24.itch.io/funkin
 
 If not no biggie we don't fully hate you only kinda no biggie.
 
