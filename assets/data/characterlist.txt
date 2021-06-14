@@ -22,5 +22,6 @@ steve
 bf-astronaut
 gf-astronaut
 lunarie
+pixel-lunarie
 lunarie-thecursed
 galactic-lunarie
