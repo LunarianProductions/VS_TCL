@@ -16,7 +16,7 @@
                  /          _/           /             
 
 HEY
-Thanks for downloadin Friday Night FUNKIN'
+Thanks for downloadin Friday Night Funkin: Vs TCL'
 If you downloaded this from any other place than ninja-muffin24.itch.io/FUNKIN
 You might be in DANGER!!! 
 
@@ -30,12 +30,12 @@ THANKS FOR DOWNLOADIN.
     PERMISSIONS XDDDD
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game.
+Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the mod.
 Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO.
 
 If you do make any sort of video, it would be a bro move if you linked the game and spread the word
 
-Play the original On Newgrounds - https://www.newgrounds.com/portal/view/770371
+Play the original game On Newgrounds - https://www.newgrounds.com/portal/view/770371
 Support the original game on Itch.io - https://ninja-muffin24.itch.io/funkin
 
 If not no biggie we don't fully hate you only kinda no biggie.
@@ -45,7 +45,7 @@ If not no biggie we don't fully hate you only kinda no biggie.
     INFO AND LINKS
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-If you wanna dig around, the game is fully open source on Github
+If you wanna dig around, the mod is fully open source on Github
 https://github.com/ninjamuffin99/Funkin
 
 It's made in Haxe / HaxeFlixel
